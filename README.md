@@ -44,7 +44,6 @@ The **Hospital Issue Tracking System** provides:
 | **Node.js & Express.js** | Scalable, fast backend API development with clear routing and async operations. |
 | **MySQL**         | Relational database ideal for structured hospital data. |
 | **Cron Jobs**     | Automates recurring tasks like generating reports and sending reminders. |
-| **WebSockets**    | Enables real-time notifications for managers (optional/scalable feature). |
 
 ---
 
